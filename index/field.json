@@ -52,5 +52,29 @@
         "path": "src\/field\/f68fdba1-62f1-4396-b915-cacc79206db5",
         "settings": "src\/field\/f68fdba1-62f1-4396-b915-cacc79206db5\/item.json",
         "guid": "f68fdba1-62f1-4396-b915-cacc79206db5"
+    },
+    "096fd1f5-480a-4a8b-98cf-4fceac5e7999": {
+        "name": "Telephone",
+        "path": "src\/field\/096fd1f5-480a-4a8b-98cf-4fceac5e7999",
+        "settings": "src\/field\/096fd1f5-480a-4a8b-98cf-4fceac5e7999\/item.json",
+        "guid": "096fd1f5-480a-4a8b-98cf-4fceac5e7999"
+    },
+    "2d01d455-4120-45bf-bce3-eba4354989c0": {
+        "name": "Stop",
+        "path": "src\/field\/2d01d455-4120-45bf-bce3-eba4354989c0",
+        "settings": "src\/field\/2d01d455-4120-45bf-bce3-eba4354989c0\/item.json",
+        "guid": "2d01d455-4120-45bf-bce3-eba4354989c0"
+    },
+    "382f24f4-aea2-448e-927c-99d89bb6ed40": {
+        "name": "Long description",
+        "path": "src\/field\/382f24f4-aea2-448e-927c-99d89bb6ed40",
+        "settings": "src\/field\/382f24f4-aea2-448e-927c-99d89bb6ed40\/item.json",
+        "guid": "382f24f4-aea2-448e-927c-99d89bb6ed40"
+    },
+    "cf7146a0-8c47-4fec-9490-34287ef14408": {
+        "name": "Base",
+        "path": "src\/field\/cf7146a0-8c47-4fec-9490-34287ef14408",
+        "settings": "src\/field\/cf7146a0-8c47-4fec-9490-34287ef14408\/item.json",
+        "guid": "cf7146a0-8c47-4fec-9490-34287ef14408"
     }
 }
