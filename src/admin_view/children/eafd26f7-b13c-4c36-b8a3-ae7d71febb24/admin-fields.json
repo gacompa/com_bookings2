@@ -31,10 +31,70 @@
             ]
         },
         "2": {
+            "field": "382f24f4-aea2-448e-927c-99d89bb6ed40",
+            "list": "1",
+            "order_list": "5",
+            "search": "1",
+            "filter": "",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "3",
+                "2",
+                "1"
+            ]
+        },
+        "3": {
+            "field": "2d01d455-4120-45bf-bce3-eba4354989c0",
+            "list": "1",
+            "order_list": "6",
+            "search": "1",
+            "filter": "",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "3",
+                "2",
+                "1"
+            ]
+        },
+        "4": {
+            "field": "cf7146a0-8c47-4fec-9490-34287ef14408",
+            "list": "1",
+            "order_list": "7",
+            "search": "1",
+            "filter": "",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "5": {
+            "field": "096fd1f5-480a-4a8b-98cf-4fceac5e7999",
+            "list": "1",
+            "order_list": "8",
+            "title": "1",
+            "search": "1",
+            "filter": "",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "0",
+            "permission": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "6": {
             "field": "b83771c3-ffd1-4827-a41d-a633873517c7",
             "list": "3",
             "order_list": "3",
-            "title": "1",
             "filter": "",
             "tab": "2",
             "alignment": 1,
@@ -43,7 +103,7 @@
                 "3"
             ]
         },
-        "3": {
+        "7": {
             "field": "2c6061d1-eb07-4f29-858b-21e4439b237b",
             "list": "3",
             "order_list": "4",
@@ -74,6 +134,34 @@
         {
             "key": "guid",
             "value": "c9896d41-82cf-42da-873f-2b7c59e22b81",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "382f24f4-aea2-448e-927c-99d89bb6ed40",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "2d01d455-4120-45bf-bce3-eba4354989c0",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "cf7146a0-8c47-4fec-9490-34287ef14408",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "096fd1f5-480a-4a8b-98cf-4fceac5e7999",
             "entity": "field",
             "table": "#__componentbuilder_field",
             "direction": "out"
